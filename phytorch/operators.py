@@ -1,5 +1,6 @@
 
 import math
+from typing import Callable, Iterable
 
 def mul(x: float, y: float) -> float:
     return x * y
